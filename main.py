@@ -38,7 +38,7 @@ def display_video(cap, model, label_colors):
 
 
 def main():
-    PATH_TO_VIDEO = "tests/test_2.mp4"
+    PATH_TO_VIDEO = "YOUR_PATH_TO_VIDEO"
     PATH_TO_MODEL = "model/best.pt"
     LABEL_COLORS = [(0, 255, 0), (0, 0, 255)]
 
